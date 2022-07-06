@@ -7,10 +7,8 @@ body {
 .half-donation {
     background-image: url(images/donation7.jpg);
     background-repeat: no-repeat;
-
     height: 400px;
     padding: 2%;
-
 }
 
 h1 {
@@ -19,11 +17,16 @@ h1 {
 }
 
 .font-color {
-    color: white;
     text-align: center;
+    padding: 10px 280px;
+    color: white;
 }
 
+.text {
+    text-align: center;
+    padding: 10px 350px;
 
+}
 
 .link-button {
     text-decoration: none;
@@ -31,4 +34,47 @@ h1 {
     padding: 10px 20px;
     color: white;
     border-radius: 5px;
+}
+
+.Specific {
+
+    float: left;
+    margin: 10px;
+    padding: 30px 25px;
+    border-radius: 5px;
+    background-color: rgb(243, 237, 237);
+}
+
+.spec {
+    float: left;
+    margin: 10px;
+    padding: 30px 25px;
+    border-radius: 5px;
+    background-color: rgb(250, 213, 213);
+    border: 2px solid rgb(221, 90, 67);
+}
+
+.name03 {
+    float: left;
+    margin: 10px;
+    padding: 30px 25px;
+    border-radius: 5px;
+    background-color: rgb(243, 237, 237);
+}
+
+.newso {
+    float: left;
+    margin: 10px;
+    padding: 30px 25px;
+    border-radius: 5px;
+    background-color: rgb(243, 237, 237);
+}
+
+.add {
+
+    float: left;
+    margin: 10px;
+    padding: 30px 25px;
+    border-radius: 5px;
+    background-color: rgb(243, 237, 237);
 }
