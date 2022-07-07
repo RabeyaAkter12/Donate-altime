@@ -138,7 +138,54 @@ h1 {
 .half-img {
     float: right;
     padding: 5%;
+}
 
+.last-test {
+    text-align: center;
+    padding: 20px 300px;
+}
 
+.last-text-2 {
+    text-align: center;
+    padding: 10px 300px;
+}
 
+#final h3 {
+    font-family: 'Sansita Swashed', cursive;
+    text-align: center;
+    background-color: black;
+    width: 1500px;
+    height: 100px;
+    color: rgb(226, 17, 17);
+
+}
+
+#clear-div {
+    clear: both;
+}
+
+.box {
+    height: 180px;
+    background-color: burlywood;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 220px;
+    margin-right: 220px;
+
+}
+
+#email {
+    background-color: rgb(126, 120, 120);
+
+}
+
+#Subscrible {
+    background-color: brown;
+}
+
+footer p {
+    text-align: center;
+    font-size: 10px;
+    color: white;
 }
